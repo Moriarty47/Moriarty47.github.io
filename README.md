@@ -1,1 +1,1 @@
-"# Moriarty47's Blog" 
+# Moriarty47's Blog
